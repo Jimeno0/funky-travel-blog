@@ -8,14 +8,37 @@
 .markdown blockquote {
   @apply my-6;
 }
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5 {
+  letter-spacing: 2px;
+}
+
 
 .markdown h2 {
   @apply text-3xl mt-12 mb-4 leading-snug;
 }
 
-.markdown h3,
+.markdown h3 {
+  @apply text-xl mt-8 mb-4 font-bold leading-snug;
+  border: 1px solid black;
+  border-left: 0px;
+  border-right: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+
+}
+
 .markdown h4 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-lg mt-8 mb-4 font-semibold leading-snug;
+  border: 1px solid black;
+  border-left: 0px;
+  border-right: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+
 }
 
 .markdown h5 {
@@ -24,4 +47,24 @@
 
 .markdown a{
   color: gray;
+}
+
+.markdown hr {
+  border-color: black;
+}
+
+.markdown ul {
+  list-style-type: none;
+}
+
+.markdown li {
+  margin: 5px 0;
+  @apply text-sm text-justify mt-8 mb-4;
+
+}
+
+
+.markdown ul li ul li {
+  list-style-type: circle;
+  margin: 3px 0;
 }

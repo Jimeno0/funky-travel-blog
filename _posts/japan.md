@@ -1,6 +1,6 @@
 ---
 title: 'Japon'
-excerpt: 'Itinerario de 15 dias por Japon, desde Tokio a Osaka, pasando por Kioto y visitando Jara, Takayama y Universal Studios Japan'
+excerpt: 'Itinerario de 15 dias por Japon, desde Tokio a Osaka, pasando por Kioto y visitando Nara, Koyasan y Universal Studios Japan'
 coverImage: '/assets/blog/japan/cover.jpeg'
 date: '2023-07-30'
 author:
@@ -9,7 +9,159 @@ author:
 ogImage:
   url: '/assets/blog/japan/cover.jpeg'
 ---
-## Itinerario
+
+
+## TOKIO
+
+- Todos los templos y sitios que ver mas famosos intentar madrugar o ir a ultima hora porque se petan
+- Mirar cómo está el cambio, hay muchas cosas que compensa comprar. Compré varias cosas en Muji, mucho más baratas que en España
+- suica: Tarjeta monedero contactless para moverse. No vale shinkansen.
+- [Mapa con los puntos de interes](https://www.google.com/maps/d/u/0/edit?hl=es&mid=13VNhLM4cxG6oKV0xmlZ5SZ841GrkU00&ll=35.69973387447171%2C139.75578292905428&z=13)
+
+
+
+### ALOJAMIENTO
+
+- [Hotel Yuen Shinjuku](https://www.google.com/maps/place//data=!4m2!3m1!1s0x60188d7f451116f1:0xd1678a0f20b96927?source=g.page.share)
+Bien situado en el barrio Shinjuku, con un Onsen en el atico con buenas vistas de la ciudad
+
+
+### QUE VER
+
+- Akihabara a los [arcade](https://www.google.com/maps?cid=2100043306315569724) y tiendas de manga. 
+- Visitar el templo de los otakus [Santuario de Kanda](https://www.google.com/maps/place/Santuario+de+Kanda/@35.7020186,139.7678943,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1ecc161bed:0xf397e4b6bf417c8b!8m2!3d35.7020186!4d139.7678943!16s%2Fm%2F0463qs6)
+- Visitar el [Santuario Meiji](https://www.google.com/maps/place/Santuario+Meiji/@35.6763976,139.6993259,17z/data=!3m1!4b1!4m6!3m5!1s0x60188cb79a4c26e5:0x8fca893849103f73!8m2!3d35.6763976!4d139.6993259!16zL20vMDFxX2s5)
+- Ver el cruze desde el [Starbucks Coffee - Shibuya Tsutaya](https://www.google.com/maps/place/Starbucks+Coffee+-+Shibuya+Tsutaya/@35.6598578,139.7003513,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca8194a6235:0x7e2eef92f5e67266!8m2!3d35.6598578!4d139.7003513!16s%2Fg%2F1td3rh7r) 
+- A la tarde [Templo Zojoji](https://www.google.com/maps/place/Templo+Zojoji/@35.657479,139.7482928,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bbe91676c0b:0x88a4a86ddb1dbd24!8m2!3d35.657479!4d139.7482928!16zL20vMDQ1Z3h6) pequenito (ojo que cierra a als 17.00)
+- Ir a desayunar al [Tsukiji Outer Market](https://www.google.com/maps/place/Tsukiji+Outer+Market/@35.6733677,139.7618043,14.01z/data=!3m1!5s0x60188bded0599099:0x9e8525c63588dca4!4m16!1m9!3m8!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!2sTsukiji+Outer+Market!8m2!3d35.6649974!4d139.7698163!9m1!1b1!16s%2Fg%2F11c1r0fp8l!3m5!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!8m2!3d35.6649974!4d139.7698163!16s%2Fg%2F11c1r0fp8l) súper recomendable. De aquí a los que fuimos tenemos vídeo mi foto. Detalles del sitio en la seccion de comida. 
+- Visitar el museo [teamLab Planets](https://www.google.com/maps?cid=7918542870314997282). Súper recomendable, ojo que no es entrar y pagar. Tienes que comprar la entrada y te asignan un tu una hora. Como lo teníamos al lado del mercado fuimos a sacar la entrada y nos dieron para las 6:30, entonces nos fuimos al Hotel y luego volvimos
+- Como nos reservamos en un sitio para cenar. Al final fuimos a un callejón que la verdad es que estuvo muy guapo porque estábamos en una terraza bastante chulo el sitio y luego estuvimos paseando por la zona de sinjuku y mola por la noche ver todas las luces pantallas 3D Godzilla, etc.
+- Pasear por el Shinjuku por la noche.
+- De pura casualidad [Nedujinja shrine](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,15z/data=!4m2!3m1!1s0x0:0xc0a807378062b0d?sa=X&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAg8EAA&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAhAEAg) que si te pilla de paso mola porque estábamos literalmente solos y había mucho Stories y un tono chulo. 
+- [Santuario Nezu](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,17z/data=!4m16!1m9!3m8!1s0x60188c32ce217ef9:0xc0a807378062b0d!2sSantuario+Nezu!8m2!3d35.7201338!4d139.7607698!9m1!1b1!16s%2Fm%2F046584q!3m5!1s0x60188c32ce217ef9:0xc0a807378062b0d!8m2!3d35.7201338!4d139.7607698!16s%2Fm%2F046584q) bonito con muchos toris.
+- Visitar [Sensō-ji](https://www.google.com/maps/place/Sens%C5%8D-ji/@35.7147651,139.7966553,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec1a4463df1:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553!16zL20vMDNrOTg3) muchísima gente.
+- Visitar el parque [Ueno](https://www.google.com/maps?cid=12811393089244390490) y su templo [Kiyomizu Kannon-dō Temple](https://www.google.com/maps/place/Kiyomizu+Kannon-d%C5%8D+Temple/@35.7146709,139.7733547,15.5z/data=!4m6!3m5!1s0x60188e9de53f18f5:0xf5e70c5beecd41e3!8m2!3d35.7126261!4d139.7735665!16s%2Fg%2F1tm8kl77)
+- [Takeshita street](https://www.google.com/maps/search/Takeshita+Street,+1+Chome-6+Jingumae,+Shibuya,+Tokio,+Jap%C3%B3n/@35.6708766,139.7027747,17z/data=!3m1!4b1?entry=ttu) Calle de tiendas kawaii
+
+#### OTROS
+- Visita al [Palacio imperial | Kōkyo](https://www.google.com/maps/place/K%C5%8Dkyo/@35.685175,139.7527995,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c0d02d8064d:0xd11a5f0b379e6db7!8m2!3d35.685175!4d139.7527995!16zL20vMDFuZjI5) Reservar con tiempo. (No nos dio tiempo a sacar la entrada )
+- Visita al [Santuario Yasukuni](https://www.google.com/maps?cid=13107538590517743248) (tb tiene museo de la WWII)
+- Pasear por los parques del palacio imperial y [Parque Hibiya](https://www.google.com/maps?cid=8114491018083760820)
+- Pasear y picar algo en los puestos de comida callejera por la zona de [Yanaka](https://www.google.com/maps/place/Yanaka,+Tait%C5%8D,+Tokio+110-0001,+Jap%C3%B3n/@35.7249936,139.768632,15.28z/data=!4m6!3m5!1s0x60188dd49a29cf49:0x61fc5462a4a58119!8m2!3d35.7250389!4d139.7690417!16s%2Fg%2F12156pxk)
+
+
+### COMIDA
+
+- Ir a desayunar al [Tsukiji Outer Market](https://www.google.com/maps/place/Tsukiji+Outer+Market/@35.6733677,139.7618043,14.01z/data=!3m1!5s0x60188bded0599099:0x9e8525c63588dca4!4m16!1m9!3m8!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!2sTsukiji+Outer+Market!8m2!3d35.6649974!4d139.7698163!9m1!1b1!16s%2Fg%2F11c1r0fp8l!3m5!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!8m2!3d35.6649974!4d139.7698163!16s%2Fg%2F11c1r0fp8l) súper recomendable. De aquí a los que fuimos tenemos vídeo mi foto
+	- Onigiri Marutoyo: rolls cheap, onugiri con huevo
+	- Kikagoya Tsukiji Shokudo: zamburiñas
+	- Tonboya: brochetas atun
+	- Okame: sushi auténtico rico y grande
+	- miyake suisan: sashimi (y de zamburiñas!) ++++
+	- Maguroya Kurogin: sushi atún rojo pero caro
+	- Takashin suisan: sushi más barato(fatty tuna 🫶🏻)
+	- saito suisan: sushi erizo 
+	- Tsukiji Ihachi: brochetas de kobe
+- [Harajuku Gyozaro](https://www.google.com/maps/place/Harajuku+Gyozaro/@35.6675016,139.7061026,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca46f48ab17:0x8b30eb7879902bda!8m2!3d35.6675016!4d139.7061026!16s%2Fg%2F1ts3l5zk?entry=ttu) Giozas mas famoso de Japon. estaban espectaculares, y súper bien de precio pero procura no fijarte en la de grasa  que hay en la cocina. Solo tienes que hacer cola.
+- fuimos a cenar a [HIBI HARE BARE Shinjuku](https://maps.app.goo.gl/1MfarzBXTcReKtjq9?g_st=ic), un sitio increíble de sushi que tenéis que reservar. Si o sí. Nosotros encontramos sitio de auténtica coña nos lo recomendó el del Hotel. Reservar con tiempo. 
+- Mejor Ramen de Tokio: [Ginza Kagari](https://maps.app.goo.gl/5jWBz1AiRFdTdk69A?g_st=ic) Solo tienes que hacer cola, aunque ve con tiempo porque va haber colas. Está en un callejón súper pequeño
+
+
+## KIOTO
+
+- tuvimos mucha suerte que pillamos el GION festival con las carrozas. Si vas en Julio informate. Así que estuvimos algunas tardes paseando por donde estaban expuestas.
+- estuvimos viendo el desfile de las carrozas el domingo  por la mañana. Muy chulo molaba a ver cómo giraban las curvas porque los carros no pueden girar. Entonces metían unas barras de bambú debajo de la ruedas y tiraban a pulso en una especie de danza de los coordinadores. Muy guapo.
+
+### ALOJAMIENTO
+
+- [The Gate Hotel](https://www.google.com/maps/place/THE+GATE+HOTEL+Kyoto+Takasegawa+by+HULIC/@35.0063179,135.7693732,17.83z/data=!4m9!3m8!1s0x60010945301ea07b:0x2b4eb8aa84582fb2!5m2!4m1!1i2!8m2!3d35.0059921!4d135.7703257!16s%2Fg%2F11gy29f3kd?entry=ttu) Muy chulo y super bien hubicado en la zona de pontocho. Desde la recepcion (ultima planta) tiene unas vistas muy buenas.
+
+### QUE VER
+- Bosque de bambus de [Arashiyama](https://www.google.com/maps?cid=12369934962818482508) , fuimos a las 8:30 y había gente pero poquito. Recomendado madrugar. Literalmente se ve en 10 minutos
+- [Templo Tenryu-ji](https://www.google.com/maps?cid=14815785984447432896) que esta al lado de Arashiyama.
+- [Templo Kinkaku-ji](https://www.google.com/maps?cid=1073025677330113631), el pabellon dorado.
+- Bagabundear por el barrio de [Gion](https://www.google.com/maps?q=Gion,+Higashiyama-ku,+Kioto,+Prefectura+de+Kioto,+Jap%C3%B3n&ftid=0x600108c3c1c67b67:0xdcb04aa1398efb4) .  Tener en cuenta que en agosto hace un calor que lo flipas entonces todo lo que haya que ver mejor a primera hora o a última hora. Nos tuvimos que ir de guion porque estamos achicharrados
+- Principalmente por las zonas de:
+	- [Ninenzaka](https://www.google.com/maps?cid=16622321643655642677) tiendas.
+	- [Sanneizaka](https://www.google.com/maps?cid=11767990651930696711) tiendas.
+	- [Hanamikoji-dori](https://www.google.com/maps?q=Hanamikoji-dori,+Higashiyama+Ward,+Kyoto,+Jap%C3%B3n&ftid=0x600108ea09cdb6a5:0xec008ef212865dc0) teahouses.
+- Pasear por Pontocho a la orilla del rio.
+- [Fushimi Inari-taisha](https://www.google.com/maps?cid=8870624639634301673) pasillo de un montonazo de toris.
+- [Kiyomizu-dera](https://www.google.com/maps?cid=7111013964196361402)
+- [Santuario Yasaka](https://www.google.com/maps?cid=14374021738854095593) esta abierto de noche si estas por el barrio de Guion merece mucho la pena ir a verlo despues de cenar
+#### Otros (no pudimos ir)
+- [templo Nanzen-ji](https://www.google.com/maps?cid=4085672666846396493) y su acueducto.
+- [Templo Eikando](https://www.google.com/maps?cid=2060121541776026964) , Dicen que el interior es muy bonito, ver el laguito tambien. 
+
+### COMIDA
+- Tempura en [Komefuku](https://www.google.com/maps?cid=2345879783574912205), es una franquicia, pero está bastante bueno y se puede reservar con poco tiempo
+- [Kyo-Machiya Kyoto Shijo Kuon](https://maps.app.goo.gl/yXj483T3SCU4AYop7?g_st=ic) unos soba con curry buenísimos súper bien de precio y el sitio está muuuy chulo en la planta alta. 
+- Cenar por la zona de [pontocho](https://www.google.com/maps/place/Pontocho+Alley/@35.0047702,135.7710766,16.25z/data=!4m6!3m5!1s0x600109a0594cd3eb:0x122e4ece60572e73!8m2!3d35.0048601!4d135.7711059!16s%2Fg%2F11sk34vshy) puestos callejeros y se puede tomar algo.
+- Cena en el [kichi kichi omurice](https://maps.app.goo.gl/Hd6rEWNjhK5b3wSq9?g_st=ic).Súper recomendable la experiencia. El tío es un Show, para poder cenar ahí tienes que ir a las 2:30 a hacer cola esperando una hora y a las 3:30 vienen a pasar lista para apuntarte para el turno de la noche y así es como reservas si no es imposible. 
+- [Nishiki Market](https://www.google.com/maps/place/Mercado+de+Nishiki/@35.00683,135.7545878,14.79z/data=!4m6!3m5!1s0x6001089ccd8ccb4f:0xb69ea31001ec6c9c!8m2!3d35.0050258!4d135.764723!16s%2Fm%2F03d6_6p?entry=ttu)
+  - Hay algunos puestos de sushi muy bueno.
+  - "Palitos de cangrejo" de King Crab, flambeados y rebozados riquisimos.
+  - Hay un puesto de guiozas que sale en la guia michelin buenisimo.
+- [Gion Mizuoka](https://maps.app.goo.gl/AngUT18pEBePYEEGA?g_st=ic) paseando por el barrio de las geishas y cenamos en un sitio súper especial, que solo estábamos cuatro personas y nos hicieron como un menú de muchos platos de cocina tradicional. Una pareja de ancianos encantadores. No fue barato pero mereció la pena. Reservar online 
+- Speakeasy, parece tienda de libros pero es una cockteleria [Bees knees](https://www.google.com/maps/place/BEE%E2%80%99S+KNEES/@35.005012,135.7677227,17z/data=!3m2!4b1!5s0x600108952456fff3:0x4f71ee1998ae3364!4m6!3m5!1s0x6001089524468891:0xaebe20902be8c3a7!8m2!3d35.005012!4d135.7702976!16s%2Fg%2F11hd505l8f?entry=ttu) muy chula la cokteleria.
+
+
+#### OTROS
+- Cena en [Sushitetsu](https://www.google.com/maps?cid=7726051953557838672) , perfecto por el barrio de pontocho. paseo por el rio y tomar algo.
+- estrella Michelin por la zona [Kyoto Kitcho Arashiyama](https://www.google.com/maps?cid=1741826616241561678). un kyo-kaiseki(multicourse).  Experiencia menu tradicional japonesa. Nos pilló el toro y no pudimos reservar. Pero muy recomendable organizarse. Reservarlo con tiempo.
+- Comida o cena en [Hachidaime Gihey](https://www.google.com/maps?cid=2108799453378861347): Mucha cola, comida tradicional buena 
+
+
+## OSAKA
+
+### ALOJAMIENTO
+
+- [karaksa hotel Osaka Namba](https://www.google.com/maps/place/karaksa+hotel+Osaka+Namba/@34.6705808,135.4963556,17z/data=!3m1!4b1!4m9!3m8!1s0x6000e7119b1c6039:0x5f6637f60388c983!5m2!4m1!1i2!8m2!3d34.6705808!4d135.4989305!16s%2Fg%2F11gfbd1lbx?entry=ttu) hotel normalito y funcional. Bien hubicado.
+- (Koyasan) [Saizenin](https://www.google.com/maps/place/Koyasan+Saizenin/@34.2143502,135.5770368,17z/data=!3m1!4b1!4m9!3m8!1s0x6007270cf9bb8e67:0xbc1a8e99ba0765fa!5m2!4m1!1i2!8m2!3d34.2143502!4d135.5796117!16s%2Fg%2F1tx46_n5?entry=ttu) para dormir en un templo.
+
+### QUE VER
+- Universal studios (jueves). Recomendadisimo!!
+    - Evitar fines de semana.
+    - Hazte a la idea de que va a haber muchas colas. El express pass es caro pero si puedes permitírtelo merece la pena.
+    - Estar allí al menos 20 min antes de que abra. Nosotros estuvimos de 8.00 a 21 y se nos pasó volando. Mirar antes con la app cuales se petan más para ir organizándose. TODAS las que probamos merecen la pena.
+    - El express pass es caro, pero las colas pueden ser de 2 horas, en mi opinion merece la pena.
+- Nara, muy recomendable, mola mucho pasear por ahí y ver todos los ciervos. Hacen reverencia para que les des comida. 
+    - Todai-ji: templo
+    - kashuga-taisha. encienden todas las luces en agosto: ver si nos cuadra. Fuimos a verlo y estaba chulo con Toris y farolillos en el camino. Mola porque hay ciervos alrededor.
+- Pasear por el Dotonbori
+- Fuimos a un Speakeasy [Cocktail machine](https://www.google.com/maps/place/%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3cocktail+machine+NAMBA/@34.668071,135.4961926,17z/data=!3m2!4b1!5s0x6000e713716bcea3:0x86092705f294c993!4m6!3m5!1s0x6000e70d293703ef:0x98e5dae272313c79!8m2!3d34.6680711!4d135.500806!16s%2Fg%2F11ty0svn81?entry=ttu) muy chulo parece una maquina expendedora pero es una puerta secreta a una cockteleria, muy buenos.
+- Koyasan Está como a 2.15h de Osaka pero el viaje merece la pena, el último tramo de 40 min es PRECIOSO entre las montañas, y luego coger un vagón de cable que te sube toda la montaña chulisimo tambien.
+  - Dormimos en el [Saizenin](https://www.google.com/maps/place/Koyasan+Saizenin/@34.2143502,135.5770368,17z/data=!3m1!4b1!4m9!3m8!1s0x6007270cf9bb8e67:0xbc1a8e99ba0765fa!5m2!4m1!1i2!8m2!3d34.2143502!4d135.5796117!16s%2Fg%2F1tx46_n5?entry=ttu), un ryokan con onsen muy chulo, recomendadisimo pedir tambien el desayuno y cena para la full experience. a las 7.00 hacen un rezo que esta chulo.
+  - Los templos son espectaculares, poco que envidiar al resto y no hay practicamente nadie.
+  - Ver el cementerio de día y de **noche** muy recomendado! Hay tours, nosotros lo hicimos por nuestra cuenta y no nos arrepentimos, hay una magia muy chula cuando no escuchas a nadie y estás en esos pasillos de farolillos.
+  - Daimon Gate: impresiona lo grande que es
+  - Kongobu-ji Danjo Garan: complejo de templos Chulisimo. Tiene una pagoda de un solo piso per enorme, pasear por todo el complejo.
+  - Hasuike: Justo al lado hay un puentecito muy bonito.
+
+
+
+#### OTROS
+- Osaka catle
+
+### COMIDA
+- [Ajinoya Honten](https://maps.app.goo.gl/krWKxmzm2DPacJAm6?g_st=ic). Super recomentado. Okonomiyaki y yakisoba a la plancha buenisimos. Tambien hacen como una tortilla de cebollino buenisima. Fuimos 2 veces. Aunque veas una cola hay que ir hasta la puerta para coger número en una maquinita. Tiene un QR que te abre una aplicación de LINE y ahí vas viendo cómo va la cola. Te puedes ir por ahí ir viendo cuánto te queda para tu número?
+- (Nara) [Nakatanidou](https://www.google.com/maps/place/Nakatanidou/@34.681943,135.8263246,17z/data=!3m1!4b1!4m6!3m5!1s0x6001398812073c9b:0xca16527bbdfdc288!8m2!3d34.681943!4d135.8288995!16s%2Fg%2F11bwyxtz0r?entry=ttu): Famous mochi store. súper recomendable comer estos Mochis los mejores de nuestra vida. Preguntar cuándo va a ser el Show que también mola verlo
+- (Nara) [soba-dokoro Kitahara](https://maps.app.goo.gl/pqsENYnuZtLJ3tjA6?g_st=ic)  estaban muy buenos los sobas y la tempura especialmente.
+- [sushi kinga](https://maps.app.goo.gl/jxoYpo8sWT1QMRmy5?g_st=ic) recomendadisimo.
+
+
+
+
+---
+
+## Itinerario (WIP) Notas pero viene bien para combinar mejor los sitios
+
+---
+
+
+
+
+
 
 #### TOKIO
 
@@ -21,6 +173,8 @@ ogImage:
 - Acabamos cenando un Running sushi al lado de la estación de Akihabara, que no estaba mal.
 - Visitar el templo de los otakus [Santuario de Kanda](https://www.google.com/maps/place/Santuario+de+Kanda/@35.7020186,139.7678943,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1ecc161bed:0xf397e4b6bf417c8b!8m2!3d35.7020186!4d139.7678943!16s%2Fm%2F0463qs6)
 - Cenar y dar una vuelta por [Kabukicho](https://www.google.com/maps?q=Kabukich%C5%8D,+Shinjuku,+Tokio+160-0021,+Jap%C3%B3n&ftid=0x60188cd84e865c35:0x33418e00dfeefac) : zona de shinjuku en general por la noche, fiesta luces etc 
+- A la tarde [Templo Zojoji](https://www.google.com/maps/place/Templo+Zojoji/@35.657479,139.7482928,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bbe91676c0b:0x88a4a86ddb1dbd24!8m2!3d35.657479!4d139.7482928!16zL20vMDQ1Z3h6) pequenito (ojo que cierra a als 17.00)
+
 
 ##### 19 Julio
 - Visitar el [Santuario Meiji](https://www.google.com/maps/place/Santuario+Meiji/@35.6763976,139.6993259,17z/data=!3m1!4b1!4m6!3m5!1s0x60188cb79a4c26e5:0x8fca893849103f73!8m2!3d35.6763976!4d139.6993259!16zL20vMDFxX2s5)
@@ -29,10 +183,11 @@ ogImage:
 - Comer [shushi Uobei cutre cinta transportadora](https://www.google.com/maps/place/Uobei+Shibuya+Dougenzaka/@35.6594349,139.6979207,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca9c3e93569:0x51b1ecd6fe7ee73f!8m2!3d35.6594349!4d139.6979207!16s%2Fg%2F11cn8s0vv1) - [Vegano barato Alaska zwei](https://www.google.com/maps/place/Alaska+zwei/@35.6489507,139.6888718,17z/data=!3m1!4b1!4m6!3m5!1s0x6018f4ad2aa2dbb7:0x4bc07210493cc81f!8m2!3d35.6489507!4d139.6910605!16s%2Fg%2F1tj89gk4) - [ Harajuku Gyozaro Gyozas mas famosas de tokio](https://www.google.com/maps/place/Harajuku+Gyozaro/@35.6675016,139.7061026,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca46f48ab17:0x8b30eb7879902bda!8m2!3d35.6675016!4d139.7061026!16s%2Fg%2F1ts3l5zk) 
 - Al final fuimos a comer a las giozas. estaban espectaculares, y súper bien de precio pero procura no fijarte en la de grasa  que hay en la cocina. Solo tienes que hacer cola.
 - Volvimos a Akihabara porque nos encantó y cenamos en el sitio de ramen de pollo, que era un auténtico desfase de lo bueno que estaba: [Ginza Kagari](https://maps.app.goo.gl/5jWBz1AiRFdTdk69A?g_st=ic) Solo tienes que hacer cola, aunque ve con tiempo porque va haber colas. Está en un callejón súper pequeño
+- Visitar el museo [teamLab Planets](https://www.google.com/maps?cid=7918542870314997282). Súper recomendable, ojo que no es entrar y pagar. Tienes que comprar la entrada y te asignan un tu una hora. Como lo teníamos al lado del mercado fuimos a sacar la entrada y nos dieron para las 6:30, entonces nos fuimos al Hotel y luego volvimos
+- Visitar la [tokio tower](https://www.google.com/maps?cid=5195627782660688349) y ver la vista o desde de [Roppongi Hills](https://www.google.com/maps/place/Roppongi+Hills/@35.6602384,139.7300767,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNBLWIrrzSx_z-p4cZxfPCM9sNaz-QvhciWQW9j!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBLWIrrzSx_z-p4cZxfPCM9sNaz-QvhciWQW9j%3Dw150-h150-k-no-p!7i3024!8i4032!4m17!1m8!3m7!1s0x60188b771049dc33:0x5bfe0248594cc802!2sRoppongi+Hills!8m2!3d35.6602384!4d139.7300767!10e5!16zL20vMDFyMl9r!3m7!1s0x60188b771049dc33:0x5bfe0248594cc802!8m2!3d35.6602384!4d139.7300767!9m1!1b1!16zL20vMDFyMl9r) que se ve la torre de tokio. nosotros lo vimos desde la última y mejor porque mola verla Tokyo Tower también.
 
 Otros:
 - A la tarde [Templo Zojoji](https://www.google.com/maps/place/Templo+Zojoji/@35.657479,139.7482928,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bbe91676c0b:0x88a4a86ddb1dbd24!8m2!3d35.657479!4d139.7482928!16zL20vMDQ1Z3h6) pequenito (ojo que cierra a als 17.00)
-- 
 - Cenar fideos soba en [Sarashina Horii Azabujūban Honten](https://www.google.com/maps/place/Sarashina+Horii+Azabuj%C5%ABban+Honten/@35.656802,139.7328803,17z/data=!3m1!4b1!4m6!3m5!1s0x60188b9e33a35639:0x429bb112b4b3cccf!8m2!3d35.656802!4d139.7328803!16s%2Fg%2F11c3ymwc2v) o ir para la zona del hotel(sinjuku) - [Shinjuku Kappo NAKAJIMA](https://www.google.com/maps/place/Shinjuku+Kappo+NAKAJIMA/@35.6902024,139.7040013,17z/data=!3m1!4b1!4m6!3m5!1s0x60188cdb1d149a8b:0xab25de5738d920b4!8m2!3d35.6902024!4d139.7040013!16s%2Fg%2F1td4pptp) sardinas estrella michelin (no aceptan tarjetas) - [Robot restaurant](https://www.google.com/maps?cid=16947445382207186617) espectaculo japo WTF
 
 ##### 20 Julio
@@ -48,7 +203,7 @@ Otros:
 	- saito suisan: sushi erizo 
 	- Tsukiji Ihachi: brochetas de kobe
 
--  - Visitar el museo [teamLab Planets](https://www.google.com/maps?cid=7918542870314997282). Súper recomendable, ojo que no es entrar y pagar. Tienes que comprar la entrada y te asignan un tu una hora. Como lo teníamos al lado del mercado fuimos a sacar la entrada y nos dieron para las 6:30, entonces nos fuimos al Hotel y luego volvimos
+- Visitar el museo [teamLab Planets](https://www.google.com/maps?cid=7918542870314997282). Súper recomendable, ojo que no es entrar y pagar. Tienes que comprar la entrada y te asignan un tu una hora. Como lo teníamos al lado del mercado fuimos a sacar la entrada y nos dieron para las 6:30, entonces nos fuimos al Hotel y luego volvimos
 - Visitar la [tokio tower](https://www.google.com/maps?cid=5195627782660688349) y ver la vista o desde de [Roppongi Hills](https://www.google.com/maps/place/Roppongi+Hills/@35.6602384,139.7300767,3a,75y,90t/data=!3m7!1e2!3m5!1sAF1QipNBLWIrrzSx_z-p4cZxfPCM9sNaz-QvhciWQW9j!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBLWIrrzSx_z-p4cZxfPCM9sNaz-QvhciWQW9j%3Dw150-h150-k-no-p!7i3024!8i4032!4m17!1m8!3m7!1s0x60188b771049dc33:0x5bfe0248594cc802!2sRoppongi+Hills!8m2!3d35.6602384!4d139.7300767!10e5!16zL20vMDFyMl9r!3m7!1s0x60188b771049dc33:0x5bfe0248594cc802!8m2!3d35.6602384!4d139.7300767!9m1!1b1!16zL20vMDFyMl9r) que se ve la torre de tokio. nosotros lo vimos desde la última y mejor porque mola verla Tokyo Tower también.
 - Como nos reservamos en un sitio para cenar. Al final fuimos a un callejón que la verdad es que estuvo muy guapo porque estábamos en una terraza bastante chulo el sitio y luego estuvimos paseando por la zona de sinjuku y mola por la noche ver todas las luces pantallas 3D Godzilla, etc.
 
@@ -64,7 +219,7 @@ Otros:
  - Cena: Ir a cualquiera de los que no hemos ido antes.
  
 ##### 21 Julio
-- De pura casualidad Nedujinja shrine que si te pilla de paso mola porque estábamos literalmente solos y había mucho Stories y un tono chulo. 
+- De pura casualidad [Nedujinja shrine](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,15z/data=!4m2!3m1!1s0x0:0xc0a807378062b0d?sa=X&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAg8EAA&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAhAEAg) que si te pilla de paso mola porque estábamos literalmente solos y había mucho Stories y un tono chulo. 
 - [Santuario Nezu](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,17z/data=!4m16!1m9!3m8!1s0x60188c32ce217ef9:0xc0a807378062b0d!2sSantuario+Nezu!8m2!3d35.7201338!4d139.7607698!9m1!1b1!16s%2Fm%2F046584q!3m5!1s0x60188c32ce217ef9:0xc0a807378062b0d!8m2!3d35.7201338!4d139.7607698!16s%2Fm%2F046584q) bonito con muchos toris.
 - Visitar [Sensō-ji](https://www.google.com/maps/place/Sens%C5%8D-ji/@35.7147651,139.7966553,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec1a4463df1:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553!16zL20vMDNrOTg3) muchísima gente.
 - Probamos un ramen frío que no nos convenció mucho
@@ -123,8 +278,6 @@ Ver a ultima hora el [Kiyomizu-dera](https://www.google.com/maps?cid=71110139641
 - Estuvimos paseando por el barrio de las geishas y cenamos en un sitio súper especial, que solo estábamos cuatro personas y nos hicieron como un menú de muchos platos de cocina tradicional. Una pareja de ancianos encantadores. No fue barato pero mereció la pena. Reservar online: [Gion Mizuoka](https://maps.app.goo.gl/AngUT18pEBePYEEGA?g_st=ic)
 - Súper recomendado el Sake Matsumoto. 
 - Ver el [Santuario Yasaka](https://www.google.com/maps?cid=14374021738854095593) esta abierto de noche y dicen que es super bonito por la noche
-Otros osaka:
-- Kiyomizu-dera
 
 ##### 26 Julio
 
@@ -140,7 +293,6 @@ Otros osaka:
 #### Osaka
 
 * comer ajinoya okonomiyaki 
-* 
 ##### 27 Julio
 
 Universal studios (jueves). Recomendadisimo!!
