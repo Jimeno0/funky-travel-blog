@@ -13,33 +13,33 @@ ogImage:
 
 ## TOKIO
 
-- Todos los templos y sitios que ver mas famosos intentar madrugar o ir a ultima hora porque se petan
-- Mirar cómo está el cambio, hay muchas cosas que compensa comprar. Compré varias cosas en Muji, mucho más baratas que en España
-- suica: Tarjeta monedero contactless para moverse. No vale shinkansen.
-- [Mapa con los puntos de interes](https://www.google.com/maps/d/u/0/edit?hl=es&mid=13VNhLM4cxG6oKV0xmlZ5SZ841GrkU00&ll=35.69973387447171%2C139.75578292905428&z=13)
+- Todos los templos y sitios más famosos que ver: intentar madrugar o ir a última hora porque se llenan.
+- Mirar cómo está el cambio, hay muchas cosas que compensa comprar. Compré varias cosas en Muji, mucho más baratas que en España.
+- suica: Tarjeta monedero contactless para moverse. No vale para shinkansen.
+- [Mapa con los puntos de interés](https://www.google.com/maps/d/u/0/edit?hl=es&mid=13VNhLM4cxG6oKV0xmlZ5SZ841GrkU00&ll=35.69973387447171%2C139.75578292905428&z=13)
 
 
 
 ### ALOJAMIENTO
 
 - [Hotel Yuen Shinjuku](https://www.google.com/maps/place//data=!4m2!3m1!1s0x60188d7f451116f1:0xd1678a0f20b96927?source=g.page.share)
-Bien situado en el barrio Shinjuku, con un Onsen en el atico con buenas vistas de la ciudad
+Bien situado en el barrio de Shinjuku, con un Onsen en el ático con buenas vistas de la ciudad.
 
 
 ### QUE VER
 
-- Akihabara a los [arcade](https://www.google.com/maps?cid=2100043306315569724) y tiendas de manga. 
-- Visitar el templo de los otakus [Santuario de Kanda](https://www.google.com/maps/place/Santuario+de+Kanda/@35.7020186,139.7678943,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1ecc161bed:0xf397e4b6bf417c8b!8m2!3d35.7020186!4d139.7678943!16s%2Fm%2F0463qs6)
-- Visitar el [Santuario Meiji](https://www.google.com/maps/place/Santuario+Meiji/@35.6763976,139.6993259,17z/data=!3m1!4b1!4m6!3m5!1s0x60188cb79a4c26e5:0x8fca893849103f73!8m2!3d35.6763976!4d139.6993259!16zL20vMDFxX2s5)
-- Ver el cruze desde el [Starbucks Coffee - Shibuya Tsutaya](https://www.google.com/maps/place/Starbucks+Coffee+-+Shibuya+Tsutaya/@35.6598578,139.7003513,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca8194a6235:0x7e2eef92f5e67266!8m2!3d35.6598578!4d139.7003513!16s%2Fg%2F1td3rh7r) 
-- A la tarde [Templo Zojoji](https://www.google.com/maps/place/Templo+Zojoji/@35.657479,139.7482928,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bbe91676c0b:0x88a4a86ddb1dbd24!8m2!3d35.657479!4d139.7482928!16zL20vMDQ1Z3h6) pequenito (ojo que cierra a als 17.00)
-- Ir a desayunar al [Tsukiji Outer Market](https://www.google.com/maps/place/Tsukiji+Outer+Market/@35.6733677,139.7618043,14.01z/data=!3m1!5s0x60188bded0599099:0x9e8525c63588dca4!4m16!1m9!3m8!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!2sTsukiji+Outer+Market!8m2!3d35.6649974!4d139.7698163!9m1!1b1!16s%2Fg%2F11c1r0fp8l!3m5!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!8m2!3d35.6649974!4d139.7698163!16s%2Fg%2F11c1r0fp8l) súper recomendable. De aquí a los que fuimos tenemos vídeo mi foto. Detalles del sitio en la seccion de comida. 
-- Visitar el museo [teamLab Planets](https://www.google.com/maps?cid=7918542870314997282). Súper recomendable, ojo que no es entrar y pagar. Tienes que comprar la entrada y te asignan un tu una hora. Como lo teníamos al lado del mercado fuimos a sacar la entrada y nos dieron para las 6:30, entonces nos fuimos al Hotel y luego volvimos
-- Como nos reservamos en un sitio para cenar. Al final fuimos a un callejón que la verdad es que estuvo muy guapo porque estábamos en una terraza bastante chulo el sitio y luego estuvimos paseando por la zona de sinjuku y mola por la noche ver todas las luces pantallas 3D Godzilla, etc.
-- Pasear por el Shinjuku por la noche.
-- De pura casualidad [Nedujinja shrine](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,15z/data=!4m2!3m1!1s0x0:0xc0a807378062b0d?sa=X&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAg8EAA&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAhAEAg) que si te pilla de paso mola porque estábamos literalmente solos y había mucho Stories y un tono chulo. 
-- [Santuario Nezu](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,17z/data=!4m16!1m9!3m8!1s0x60188c32ce217ef9:0xc0a807378062b0d!2sSantuario+Nezu!8m2!3d35.7201338!4d139.7607698!9m1!1b1!16s%2Fm%2F046584q!3m5!1s0x60188c32ce217ef9:0xc0a807378062b0d!8m2!3d35.7201338!4d139.7607698!16s%2Fm%2F046584q) bonito con muchos toris.
-- Visitar [Sensō-ji](https://www.google.com/maps/place/Sens%C5%8D-ji/@35.7147651,139.7966553,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec1a4463df1:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553!16zL20vMDNrOTg3) muchísima gente.
+- Akihabara: los [arcade](https://www.google.com/maps?cid=2100043306315569724) y tiendas de manga.
+- Visitar el templo de los otakus: [Santuario de Kanda](https://www.google.com/maps/place/Santuario+de+Kanda/@35.7020186,139.7678943,17z/data=!3m1!4b1!4m6!3m5!1s0x60188c1ecc161bed:0xf397e4b6bf417c8b!8m2!3d35.7020186!4d139.7678943!16s%2Fm%2F0463qs6).
+- Visitar el [Santuario Meiji](https://www.google.com/maps/place/Santuario+Meiji/@35.6763976,139.6993259,17z/data=!3m1!4b1!4m6!3m5!1s0x60188cb79a4c26e5:0x8fca893849103f73!8m2!3d35.6763976!4d139.6993259!16zL20vMDFxX2s5).
+- Ver el cruce desde el [Starbucks Coffee - Shibuya Tsutaya](https://www.google.com/maps/place/Starbucks+Coffee+-+Shibuya+Tsutaya/@35.6598578,139.7003513,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ca8194a6235:0x7e2eef92f5e67266!8m2!3d35.6598578!4d139.7003513!16s%2Fg%2F1td3rh7r).
+- Por la tarde, [Templo Zojoji](https://www.google.com/maps/place/Templo+Zojoji/@35.657479,139.7482928,17z/data=!3m1!4b1!4m6!3m5!1s0x60188bbe91676c0b:0x88a4a86ddb1dbd24!8m2!3d35.657479!4d139.7482928!16zL20vMDQ1Z3h6) pequeñito (ojo, que cierra a las 17:00).
+- Ir a desayunar al [Tsukiji Outer Market](https://www.google.com/maps/place/Tsukiji+Outer+Market/@35.6733677,139.7618043,14.01z/data=!3m1!5s0x60188bded0599099:0x9e8525c63588dca4!4m16!1m9!3m8!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!2sTsukiji+Outer+Market!8m2!3d35.6649974!4d139.7698163!9m1!1b1!16s%2Fg%2F11c1r0fp8l!3m5!1s0x60188bdf2f796ca7:0x94d281085f8a0bd4!8m2!3d35.6649974!4d139.7698163!16s%2Fg%2F11c1r0fp8l). Súper recomendable. De aquí, los que fuimos, tenemos vídeo y foto. Detalles del sitio en la sección de comida.
+- Visitar el museo [teamLab Planets](https://www.google.com/maps?cid=7918542870314997282). Súper recomendable. Ojo, que no es solo entrar y pagar. Tienes que comprar la entrada y te asignan una hora. Como lo teníamos al lado del mercado, fuimos a sacar la entrada y nos dieron para las 6:30, entonces nos fuimos al hotel y luego volvimos.
+- Como nos reservamos en un sitio para cenar, al final fuimos a un callejón que la verdad es que estuvo muy guapo porque estábamos en una terraza, el sitio era bastante chulo y luego estuvimos paseando por la zona de Shinjuku. Mola por la noche ver todas las luces, pantallas 3D, Godzilla, etc.
+- Pasear por Shinjuku por la noche.
+- De pura casualidad, [Nedujinja shrine](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,15z/data=!4m2!3m1!1s0x0:0xc0a807378062b0d?sa=X&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAg8EAA&ved=2ahUKEwjfp7iN19SBAxXiTaQEHXccBaMQ_BJ6BAhAEAg) que si te pilla de paso, mola porque estábamos literalmente solos y había muchas "stories" y un tono chulo.
+- [Santuario Nezu](https://www.google.com/maps/place/Santuario+Nezu/@35.7201338,139.7607698,17z/data=!4m16!1m9!3m8!1s0x60188c32ce217ef9:0xc0a807378062b0d!2sSantuario+Nezu!8m2!3d35.7201338!4d139.7607698!9m1!1b1!16s%2Fm%2F046584q!3m5!1s0x60188c32ce217ef9:0xc0a807378062b0d!8m2!3d35.7201338!4d139.7607698!16s%2Fm%2F046584q), bonito con muchos toris.
+- Visitar [Sensō-ji](https://www.google.com/maps/place/Sens%C5%8D-ji/@35.7147651,139.7966553,17z/data=!3m1!4b1!4m6!3m5!1s0x60188ec1a4463df1:0x6c0d289a8292810d!8m2!3d35.7147651!4d139.7966553!16zL20vMDNrOTg3), muchísima gente.
 - Visitar el parque [Ueno](https://www.google.com/maps?cid=12811393089244390490) y su templo [Kiyomizu Kannon-dō Temple](https://www.google.com/maps/place/Kiyomizu+Kannon-d%C5%8D+Temple/@35.7146709,139.7733547,15.5z/data=!4m6!3m5!1s0x60188e9de53f18f5:0xf5e70c5beecd41e3!8m2!3d35.7126261!4d139.7735665!16s%2Fg%2F1tm8kl77)
 - [Takeshita street](https://www.google.com/maps/search/Takeshita+Street,+1+Chome-6+Jingumae,+Shibuya,+Tokio,+Jap%C3%B3n/@35.6708766,139.7027747,17z/data=!3m1!4b1?entry=ttu) Calle de tiendas kawaii
 
