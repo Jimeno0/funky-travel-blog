@@ -1,5 +1,5 @@
 ---
-title: 'Japon'
+title: 'Japón 2023'
 excerpt: 'Itinerario de 15 dias por Japon, desde Tokio a Osaka, pasando por Kioto y visitando Nara, Koyasan y Universal Studios Japan'
 coverImage: '/assets/blog/japan/cover.jpeg'
 date: '2023-07-30'

@@ -12,9 +12,9 @@ type Props = {
 }
 
 export default function Index({ allPosts }: Props) {
-  const heroPostIndex = allPosts.findIndex(({title}) => title === 'Japon')
+  const heroPostIndex = allPosts.findIndex(({title}) => title === 'Japón 2025')
   const heroPost= allPosts[heroPostIndex]
-  const morePosts = allPosts.filter(({title}) => title !== 'Japon')
+  const morePosts = allPosts.filter(({title}) => title !== 'Japón 2025')
   return (
     <>
       <Layout>
